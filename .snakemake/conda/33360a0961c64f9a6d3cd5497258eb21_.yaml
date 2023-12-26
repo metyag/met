@@ -1,0 +1,6 @@
+channels:
+- bioconda
+- conda-forge
+dependencies:
+- trnascan-se
+name: base

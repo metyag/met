@@ -1,0 +1,12 @@
+Building DAG of jobs...
+Creating conda environment env/env.yaml...
+Downloading and installing remote packages.
+CreateCondaEnvironmentException:
+Could not create conda environment from /home/metyag/Desktop/deneme/pythonProject2/env/env.yaml:
+Command:
+mamba env create --quiet --file "/home/metyag/Desktop/deneme/pythonProject2/.snakemake/conda/03e6bcc9f549e0b9a91c1354b49928a5_.yaml" --prefix "/home/metyag/Desktop/deneme/pythonProject2/.snakemake/conda/03e6bcc9f549e0b9a91c1354b49928a5_"
+Output:
+Could not solve for environment specs
+The following package could not be installed
+└─ trnscan-se   does not exist (perhaps a typo or a missing channel).
+
